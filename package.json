@@ -1,0 +1,24 @@
+{
+  "name": "lor-wallpaper",
+  "version": "1.0.0",
+  "description": "Legends of Runeterra Wallpaper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "lor",
+    "lor wallpaper",
+    "lor wallpaper download",
+    "runeterra",
+    "runeterra wallpaper",
+    "lor wallpaper download",
+    "legends of runeterra wallpaper download"
+  ],
+  "author": "John Paulo Rodriguez",
+  "dependencies": {
+    "crawler": "^1.3.0",
+    "decompress": "^4.2.1",
+    "nodejs-file-downloader": "^4.10.3"
+  }
+}

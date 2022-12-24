@@ -1,0 +1,14 @@
+{
+  "LOR_DEVELOPER_URL": "https://developer.riotgames.com/docs/lor",
+  "LOR_DEVELOPER_BUNDLE_SECTION_ID": "#data-dragon_set-bundles",
+  "LOR_DATA_PATH": "en_us/data",
+  "LOR_IMAGE_PATH": "en_us/img/cards",
+  "LOR_WALLPAPER_TYPE": [
+    "Unit",
+    "Landmark"
+  ],
+  "OUTPUT_DESTINATION": "output",
+  "TEMP_DESTINATION": "tmp",
+  "TEMP_ZIP_DESTINATION": "zip",
+  "TEMP_RAW_DESTINATION": "raw"
+}
