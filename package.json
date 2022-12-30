@@ -1,6 +1,6 @@
 {
   "name": "lor-wallpaper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Legends of Runeterra Wallpaper",
   "main": "index.js",
   "scripts": {
