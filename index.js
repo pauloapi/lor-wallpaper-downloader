@@ -1,7 +1,8 @@
-const { getAllLinks } = require('./webcrawler')
-const { downloadFile } = require('./downloader')
-const { getFileHash } = require('./filehash')
 const decompress = require("decompress");
+const fs = require('fs')
+const path = require('path')
+const { getAllLinks, getWikiImageLink } = require('./utils/webcrawler')
+const { getFileHash, downloadFile } = require('./utils/fileHelper')
 const {
   TEMP_DESTINATION,
   OUTPUT_DESTINATION,
@@ -12,8 +13,7 @@ const {
   TEMP_ZIP_DESTINATION,
   TEMP_RAW_DESTINATION
 } = require('./config.json')
-const fs = require('fs')
-const path = require('path')
+const cardSkins = require('./skins.json')
 
 async function main() {
 
@@ -56,28 +56,42 @@ async function main() {
     let cardList = JSON.parse(fs.readFileSync(setDataFilename));
     cardList.forEach(card => {
       if (LOR_WALLPAPER_TYPE.includes(card.type)) {
-        wallpaperList.push(card.cardCode + '-full.png')
+        wallpaperList.push(card.cardCode)
       }
     });
   })
-  console.log('Wallpaper Count:', wallpaperList.length)
 
   // Remove duplicate images
   let unique = {}
   wallpaperList.forEach(async card => {
-    let cardFilename = path.join(TEMP_IMAGE_PATH, card);
-    const hex = getFileHash(cardFilename)
-    unique[hex] = card
+    let filename = card + '-full.png'
+    let filenameFull = path.join(TEMP_IMAGE_PATH, filename);
+    const hex = getFileHash(filenameFull)
+    unique[hex] = filename
   });
   let uniqueCards = Object.values(unique)
-  console.log('Unique Wallpaper Count:', uniqueCards.length)
 
-  // Move all unique to output folder
+  // Move all unique wallpaper to output folder
   uniqueCards.forEach(card => {
     let cardFilename = path.join(TEMP_IMAGE_PATH, card);
     let outputDestination = path.join(OUTPUT_DESTINATION, card);
     fs.renameSync(cardFilename, outputDestination)
   })
+
+  // Download skins from LOR fandom wiki
+  for (card of cardSkins) {
+    let link = await getWikiImageLink(card.champName, card.skinName, card.cardCode);
+    if (link) {
+      console.log('Downloading', card.champName, card.skinName, card.cardCode)
+      await downloadFile(link, OUTPUT_DESTINATION);
+    } else {
+      console.log('Not Found', card)
+    }
+  }
+  
+  // Output total wallpaper
+  let total = fs.readdirSync(OUTPUT_DESTINATION).length;
+  console.log('Total Wallpaper Count:', total)
 }
 
 main()

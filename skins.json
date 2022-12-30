@@ -1,0 +1,1187 @@
+[
+  {
+    "champName": "Garen",
+    "cardCode": "01DE012",
+    "skinName": "Rugged"
+  },
+  {
+    "champName": "Garen",
+    "cardCode": "01DE012T1",
+    "skinName": "Rugged"
+  },
+  {
+    "champName": "Lucian",
+    "cardCode": "01DE022",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Lucian",
+    "cardCode": "01DE022T1",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Lux",
+    "cardCode": "01DE042",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Lux",
+    "cardCode": "01DE042T2",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Fiora",
+    "cardCode": "01DE045",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Fiora",
+    "cardCode": "01DE045T1",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Braum",
+    "cardCode": "01FR009",
+    "skinName": "Santa"
+  },
+  {
+    "champName": "Braum",
+    "cardCode": "01FR009T1",
+    "skinName": "Santa"
+  },
+  {
+    "champName": "Braum",
+    "cardCode": "01FR053",
+    "skinName": "Santa"
+  },
+  {
+    "champName": "Anivia",
+    "cardCode": "01FR024",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Anivia",
+    "cardCode": "01FR024T3",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Anivia",
+    "cardCode": "01FR024T4",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Zed",
+    "cardCode": "01IO009",
+    "skinName": "Dark Star"
+  },
+  {
+    "champName": "Zed",
+    "cardCode": "01IO009T2",
+    "skinName": "Dark Star"
+  },
+  {
+    "champName": "Zed",
+    "cardCode": "01IO009T1",
+    "skinName": "Dark Star"
+  },
+  {
+    "champName": "Yasuo",
+    "cardCode": "01IO015",
+    "skinName": "Cosmic Zephyr"
+  },
+  {
+    "champName": "Yasuo",
+    "cardCode": "01IO015T1",
+    "skinName": "Cosmic Zephyr"
+  },
+  {
+    "champName": "Yasuo",
+    "cardCode": "01IO015",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Yasuo",
+    "cardCode": "01IO015T1",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Shen",
+    "cardCode": "01IO032",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Shen",
+    "cardCode": "01IO032T1",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Karma",
+    "cardCode": "01IO041",
+    "skinName": "Ruined"
+  },
+  {
+    "champName": "Karma",
+    "cardCode": "01IO041T1",
+    "skinName": "Ruined"
+  },
+  {
+    "champName": "Draven",
+    "cardCode": "01NX020",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Draven",
+    "cardCode": "01NX020T3",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Draven",
+    "cardCode": "01NX020",
+    "skinName": "Ruined"
+  },
+  {
+    "champName": "Draven",
+    "cardCode": "01NX020T3",
+    "skinName": "Ruined"
+  },
+  {
+    "champName": "Darius",
+    "cardCode": "01NX038",
+    "skinName": "Rift Master"
+  },
+  {
+    "champName": "Darius",
+    "cardCode": "01NX038T2",
+    "skinName": "Rift Master"
+  },
+  {
+    "champName": "Katarina",
+    "cardCode": "01NX042",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Katarina",
+    "cardCode": "01NX042T2",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Teemo",
+    "cardCode": "01PZ008",
+    "skinName": "Foundations"
+  },
+  {
+    "champName": "Teemo",
+    "cardCode": "01PZ008T2",
+    "skinName": "Foundations"
+  },
+  {
+    "champName": "Teemo",
+    "cardCode": "01PZ008",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Teemo",
+    "cardCode": "01PZ008T2",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Ezreal",
+    "cardCode": "01PZ036",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Ezreal",
+    "cardCode": "01PZ036T1",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Jinx",
+    "cardCode": "01PZ040",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Jinx",
+    "cardCode": "01PZ040T1",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Jinx",
+    "cardCode": "01PZ040",
+    "skinName": "Arcane"
+  },
+  {
+    "champName": "Jinx",
+    "cardCode": "01PZ040T1",
+    "skinName": "Arcane"
+  },
+  {
+    "champName": "Jinx",
+    "cardCode": "01PZ040",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Jinx",
+    "cardCode": "01PZ040T1",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Heimerdinger",
+    "cardCode": "01PZ056",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Heimerdinger",
+    "cardCode": "01PZ056T10",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Hecarim",
+    "cardCode": "01SI042",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Hecarim",
+    "cardCode": "01SI042T1",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Hecarim",
+    "cardCode": "01SI024",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Thresh",
+    "cardCode": "01SI052",
+    "skinName": "Unbound"
+  },
+  {
+    "champName": "Thresh",
+    "cardCode": "01SI052T1",
+    "skinName": "Unbound"
+  },
+  {
+    "champName": "Thresh",
+    "cardCode": "01SI052",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Thresh",
+    "cardCode": "01SI052T1",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Elise",
+    "cardCode": "01SI053",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Elise",
+    "cardCode": "01SI053T2",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Elise",
+    "cardCode": "01SI002",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Miss Fortune",
+    "cardCode": "02BW022",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Miss Fortune",
+    "cardCode": "02BW022T2",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Fizz",
+    "cardCode": "02BW046",
+    "skinName": "Rising Tides"
+  },
+  {
+    "champName": "Fizz",
+    "cardCode": "02BW046T3",
+    "skinName": "Rising Tides"
+  },
+  {
+    "champName": "Fizz",
+    "cardCode": "02BW046",
+    "skinName": "Fizz Finslayer"
+  },
+  {
+    "champName": "Fizz",
+    "cardCode": "02BW046T3",
+    "skinName": "Fizz Finslayer"
+  },
+  {
+    "champName": "Fizz",
+    "cardCode": "02BW046T2",
+    "skinName": "Fizz Finslayer"
+  },
+  {
+    "champName": "Nautilus",
+    "cardCode": "02BW053",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Nautilus",
+    "cardCode": "02BW053T1",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Quinn",
+    "cardCode": "02DE006",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Quinn",
+    "cardCode": "02DE006T1",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Quinn",
+    "cardCode": "02DE006T2",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Quinn",
+    "cardCode": "02DE006",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Quinn",
+    "cardCode": "02DE006T1",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Quinn",
+    "cardCode": "02DE006T2",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Lee Sin",
+    "cardCode": "02IO006",
+    "skinName": "Monk"
+  },
+  {
+    "champName": "Lee Sin",
+    "cardCode": "02IO006T1",
+    "skinName": "Monk"
+  },
+  {
+    "champName": "Swain",
+    "cardCode": "02NX007",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Swain",
+    "cardCode": "02NX007T2",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Vi",
+    "cardCode": "02PZ008",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Vi",
+    "cardCode": "02PZ008T2",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Vi",
+    "cardCode": "02PZ008",
+    "skinName": "Arcane"
+  },
+  {
+    "champName": "Vi",
+    "cardCode": "02PZ008T2",
+    "skinName": "Arcane"
+  },
+  {
+    "champName": "Maokai",
+    "cardCode": "02SI008",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Maokai",
+    "cardCode": "02SI008T2",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Maokai",
+    "cardCode": "02SI008T3",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Shyvana",
+    "cardCode": "03DE011",
+    "skinName": "Dark Star"
+  },
+  {
+    "champName": "Shyvana",
+    "cardCode": "03DE011T1",
+    "skinName": "Dark Star"
+  },
+  {
+    "champName": "Shyvana",
+    "cardCode": "03DE011",
+    "skinName": "Ruined"
+  },
+  {
+    "champName": "Shyvana",
+    "cardCode": "03DE011T1",
+    "skinName": "Ruined"
+  },
+  {
+    "champName": "Shyvana",
+    "cardCode": "03DE011",
+    "skinName": "Arclight"
+  },
+  {
+    "champName": "Shyvana",
+    "cardCode": "03DE011T1",
+    "skinName": "Arclight"
+  },
+  {
+    "champName": "Trundle",
+    "cardCode": "03FR006",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Trundle",
+    "cardCode": "03FR006T2",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Trundle",
+    "cardCode": "03FR006T1",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Lulu",
+    "cardCode": "03IO002",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Lulu",
+    "cardCode": "03IO002T1",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Zoe",
+    "cardCode": "03MT009",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Zoe",
+    "cardCode": "03MT009T1",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Zoe",
+    "cardCode": "03MT009",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Zoe",
+    "cardCode": "03MT009T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Leona",
+    "cardCode": "03MT054",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Leona",
+    "cardCode": "03MT054T1",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Leona",
+    "cardCode": "03MT054",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Leona",
+    "cardCode": "03MT054T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Soraka",
+    "cardCode": "03MT055",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Soraka",
+    "cardCode": "03MT055T1",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Diana",
+    "cardCode": "03MT056",
+    "skinName": "Sentinel"
+  },
+  {
+    "champName": "Diana",
+    "cardCode": "03MT056T1",
+    "skinName": "Sentinel"
+  },
+  {
+    "champName": "Diana",
+    "cardCode": "03MT056",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Diana",
+    "cardCode": "03MT056T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Taric",
+    "cardCode": "03MT058",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Taric",
+    "cardCode": "03MT058T1",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Taric",
+    "cardCode": "03MT058",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Taric",
+    "cardCode": "03MT058T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Aphelios",
+    "cardCode": "03MT217",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Aphelios",
+    "cardCode": "03MT217T13",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Riven",
+    "cardCode": "03NX007",
+    "skinName": "Cosmic Exile"
+  },
+  {
+    "champName": "Riven",
+    "cardCode": "03NX007T1",
+    "skinName": "Cosmic Exile"
+  },
+  {
+    "champName": "Riven",
+    "cardCode": "03NX007",
+    "skinName": "Sentinel"
+  },
+  {
+    "champName": "Riven",
+    "cardCode": "03NX007T1",
+    "skinName": "Sentinel"
+  },
+  {
+    "champName": "Nocturne",
+    "cardCode": "03SI005",
+    "skinName": "Battle Boss"
+  },
+  {
+    "champName": "Nocturne",
+    "cardCode": "03SI005T1",
+    "skinName": "Battle Boss"
+  },
+  {
+    "champName": "Pyke",
+    "cardCode": "04BW005",
+    "skinName": "Sand Wraith"
+  },
+  {
+    "champName": "Pyke",
+    "cardCode": "04BW005T2",
+    "skinName": "Sand Wraith"
+  },
+  {
+    "champName": "Irelia",
+    "cardCode": "04IO005",
+    "skinName": "Sentinel"
+  },
+  {
+    "champName": "Irelia",
+    "cardCode": "04IO005T2",
+    "skinName": "Sentinel"
+  },
+  {
+    "champName": "Irelia",
+    "cardCode": "04IO010",
+    "skinName": "Sentinel"
+  },
+  {
+    "champName": "Malphite",
+    "cardCode": "04MT008",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Malphite",
+    "cardCode": "04MT008T1",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Ekko",
+    "cardCode": "04PZ001",
+    "skinName": "Sandstorm"
+  },
+  {
+    "champName": "Ekko",
+    "cardCode": "04PZ001T3",
+    "skinName": "Sandstorm"
+  },
+  {
+    "champName": "Ekko",
+    "cardCode": "04PZ001",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Ekko",
+    "cardCode": "04PZ001T3",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Azir",
+    "cardCode": "04SH003",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Azir",
+    "cardCode": "04SH003T3",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Azir",
+    "cardCode": "04SH003T2",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Azir",
+    "cardCode": "04SH003T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Azir",
+    "cardCode": "04SH003T14",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Azir",
+    "cardCode": "04SH062",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Azir",
+    "cardCode": "04SH062T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Zilean",
+    "cardCode": "04SH039",
+    "skinName": "Zilean Wisewood"
+  },
+  {
+    "champName": "Zilean",
+    "cardCode": "04SH039T1",
+    "skinName": "Zilean Wisewood"
+  },
+  {
+    "champName": "Zilean",
+    "cardCode": "04SH060T1",
+    "skinName": "Zilean Wisewood"
+  },
+  {
+    "champName": "Nasus",
+    "cardCode": "04SH047",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Nasus",
+    "cardCode": "04SH047T3",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Nasus",
+    "cardCode": "04SH047T2",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Nasus",
+    "cardCode": "04SH047",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Nasus",
+    "cardCode": "04SH047T3",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Nasus",
+    "cardCode": "04SH047T2",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Nasus",
+    "cardCode": "04SH062",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Nasus",
+    "cardCode": "04SH062T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Renekton",
+    "cardCode": "04SH067",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Renekton",
+    "cardCode": "04SH067T4",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Renekton",
+    "cardCode": "04SH067T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Renekton",
+    "cardCode": "04SH062",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Renekton",
+    "cardCode": "04SH062T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Taliyah",
+    "cardCode": "04SH073",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Taliyah",
+    "cardCode": "04SH073T2",
+    "skinName": "Pool Party"
+  },
+  {
+    "champName": "Taliyah",
+    "cardCode": "04SH073",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Taliyah",
+    "cardCode": "04SH073T2",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Akshan",
+    "cardCode": "04SH130",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Akshan",
+    "cardCode": "04SH130T2",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Akshan",
+    "cardCode": "04SH130T1",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Akshan",
+    "cardCode": "04SH003T14",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Akshan",
+    "cardCode": "04SH130T6",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Kindred",
+    "cardCode": "04SI005",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Kindred",
+    "cardCode": "04SI005T1",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Poppy",
+    "cardCode": "05BC041",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Poppy",
+    "cardCode": "05BC041T1",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Kennen",
+    "cardCode": "05BC058",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Kennen",
+    "cardCode": "05BC058T2",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Veigar",
+    "cardCode": "05BC093",
+    "skinName": "Final Boss"
+  },
+  {
+    "champName": "Veigar",
+    "cardCode": "05BC093T2",
+    "skinName": "Final Boss"
+  },
+  {
+    "champName": "Tristana",
+    "cardCode": "05BC133",
+    "skinName": "Earnest Elf"
+  },
+  {
+    "champName": "Tristana",
+    "cardCode": "05BC133T1",
+    "skinName": "Earnest Elf"
+  },
+  {
+    "champName": "Gnar",
+    "cardCode": "05BC161",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Gnar",
+    "cardCode": "05BC161T1",
+    "skinName": "Arcade"
+  },
+  {
+    "champName": "Ziggs",
+    "cardCode": "05BC163",
+    "skinName": "Battle Boss"
+  },
+  {
+    "champName": "Ziggs",
+    "cardCode": "05BC163T1",
+    "skinName": "Battle Boss"
+  },
+  {
+    "champName": "Nami",
+    "cardCode": "05BW005",
+    "skinName": "Nami Tidecaller"
+  },
+  {
+    "champName": "Nami",
+    "cardCode": "05BW005T1",
+    "skinName": "Nami Tidecaller"
+  },
+  {
+    "champName": "Galio",
+    "cardCode": "05DE009",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Galio",
+    "cardCode": "05DE009T1",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Galio",
+    "cardCode": "05DE009",
+    "skinName": "Justicar"
+  },
+  {
+    "champName": "Galio",
+    "cardCode": "05DE009T1",
+    "skinName": "Justicar"
+  },
+  {
+    "champName": "Ahri",
+    "cardCode": "05IO004",
+    "skinName": "Winter Queen"
+  },
+  {
+    "champName": "Ahri",
+    "cardCode": "05IO004T2",
+    "skinName": "Winter Queen"
+  },
+  {
+    "champName": "Ahri",
+    "cardCode": "05IO004",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Ahri",
+    "cardCode": "05IO004T2",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Pantheon",
+    "cardCode": "05MT003",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Pantheon",
+    "cardCode": "05MT003T2",
+    "skinName": "Infernal"
+  },
+  {
+    "champName": "Pantheon",
+    "cardCode": "05MT003",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Pantheon",
+    "cardCode": "05MT003T2",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Sion",
+    "cardCode": "05NX001",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Sion",
+    "cardCode": "05NX001T3",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Sion",
+    "cardCode": "05NX001T1",
+    "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Caitlyn",
+    "cardCode": "05PZ006",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Caitlyn",
+    "cardCode": "05PZ006T2",
+    "skinName": "Battle Academia"
+  },
+  {
+    "champName": "Caitlyn",
+    "cardCode": "05PZ006",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Caitlyn",
+    "cardCode": "05PZ006T2",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Caitlyn",
+    "cardCode": "05PZ006",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Caitlyn",
+    "cardCode": "05PZ006T2",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Jayce",
+    "cardCode": "05PZ022",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Jayce",
+    "cardCode": "05PZ022T1",
+    "skinName": "Gilded"
+  },
+  {
+    "champName": "Xerath",
+    "cardCode": "05SH014",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Xerath",
+    "cardCode": "05SH014T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Xerath",
+    "cardCode": "05SH014T2",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Xerath",
+    "cardCode": "04SH062",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Xerath",
+    "cardCode": "04SH062T1",
+    "skinName": "Corrupted"
+  },
+  {
+    "champName": "Senna",
+    "cardCode": "05SI009",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Senna",
+    "cardCode": "05SI009T1",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Vayne",
+    "cardCode": "06DE021",
+    "skinName": "Arclight"
+  },
+  {
+    "champName": "Vayne",
+    "cardCode": "06DE021T1",
+    "skinName": "Arclight"
+  },
+  {
+    "champName": "Master Yi",
+    "cardCode": "06IO008",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Master Yi",
+    "cardCode": "06IO008T1",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Seraphine",
+    "cardCode": "06PZ021",
+    "skinName": "Arclight"
+  },
+  {
+    "champName": "Seraphine",
+    "cardCode": "06PZ021T2",
+    "skinName": "Arclight"
+  },
+  {
+    "champName": "Bard",
+    "cardCode": "06RU001",
+    "skinName": "Bard Bard"
+  },
+  {
+    "champName": "Bard",
+    "cardCode": "06RU001T4",
+    "skinName": "Bard Bard"
+  },
+  {
+    "champName": "Jhin",
+    "cardCode": "06RU002",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Jhin",
+    "cardCode": "06RU002T1",
+    "skinName": "Pulsefire"
+  },
+  {
+    "champName": "Varus",
+    "cardCode": "06RU009",
+    "skinName": "Arclight"
+  },
+  {
+    "champName": "Varus",
+    "cardCode": "06RU009T6",
+    "skinName": "Arclight"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T5",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T1",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T2",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T3",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T4",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T7",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T8",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T9",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T10",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T11",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T12",
+    "skinName": "Spirit Blossom"
+  },
+  {
+    "champName": "Kai'Sa",
+    "cardCode": "06SH009",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Kai'Sa",
+    "cardCode": "06SH009T2",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Gwen",
+    "cardCode": "06SI012",
+    "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Gwen",
+    "cardCode": "06SI012T1",
+    "skinName": "Star Guardian"
+  }
+]
