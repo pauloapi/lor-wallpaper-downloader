@@ -15,13 +15,14 @@ We welcome contributions to the Legends of Runeterra Wallpaper Downloader. If yo
 
 ## Todo
 - [ ] Add unit tests
+- [ ] Automate crawler for skins
 - [ ] Automate wallpaper updates
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
-This project is not affiliated with Riot Games, the creators of Legends of Runeterra. All card images are based on the [Riot Games Developer Portal](https://developer.riotgames.com/docs/lor) and are used solely for educational and entertainment purposes.
+This project is not affiliated with Riot Games, the creators of Legends of Runeterra. All classic card images are based on the [Riot Games Developer Portal](https://developer.riotgames.com/docs/lor) and the skin card images are from the [LOR Wiki](https://leagueoflegends.fandom.com/wiki/List_of_champion_skins_(Legends_of_Runeterra)). All card images are used solely for educational and entertainment purposes.
 
 ---
 
