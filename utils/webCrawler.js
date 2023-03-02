@@ -13,7 +13,7 @@ module.exports.getAllLinks = function () {
           const $ = res.$;
           let links = [];
           $(LOR_DEVELOPER_BUNDLE_SECTION_ID) // Go to the Set Bundles ID https://developer.riotgames.com/docs/lor#data-dragon_set-bundles 
-            .nextUntil('p:contains("Versioned")') // Get all elements until the Versioned bundles
+            .nextUntil('h3:contains("Versioned")') // Get all elements until the Versioned bundles
             .children('a:not(:contains("lite"))') // Filter all link elements by removing all lite bundles
             .each((_, el) => links.push(el.attribs.href)) // Push all links to the array
           resolve(links)
