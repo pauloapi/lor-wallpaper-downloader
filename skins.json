@@ -1,5 +1,15 @@
 [
   {
+    "champName": "Ashe",
+    "cardCode": "01FR038",
+    "skinName": "Fae Dragon"
+  },
+  {
+    "champName": "Ashe",
+    "cardCode": "01FR038T2",
+    "skinName": "Fae Dragon"
+  },
+  {
     "champName": "Garen",
     "cardCode": "01DE012",
     "skinName": "Rugged"
@@ -123,6 +133,16 @@
     "champName": "Karma",
     "cardCode": "01IO041T1",
     "skinName": "Ruined"
+  },
+  {
+    "champName": "Karma",
+    "cardCode": "01IO041",
+    "skinName": "Tranquility Dragon"
+  },
+  {
+    "champName": "Karma",
+    "cardCode": "01IO041T1",
+    "skinName": "Tranquility Dragon"
   },
   {
     "champName": "Draven",
@@ -413,6 +433,21 @@
     "champName": "Maokai",
     "cardCode": "02SI008T3",
     "skinName": "Worldbreaker"
+  },
+  {
+    "champName": "Aurelion Sol",
+    "cardCode": "03MT087",
+    "skinName": "Storm Dragon"
+  },
+  {
+    "champName": "Aurelion Sol",
+    "cardCode": "03MT087T1",
+    "skinName": "Storm Dragon"
+  },
+  {
+    "champName": "Aurelion Sol",
+    "cardCode": "03MT087T1",
+    "skinName": "Storm Dragon"
   },
   {
     "champName": "Shyvana",
@@ -895,6 +930,16 @@
     "skinName": "Nami Tidecaller"
   },
   {
+    "champName": "Nami",
+    "cardCode": "05BW005",
+    "skinName": "Cascade Dragon"
+  },
+  {
+    "champName": "Nami",
+    "cardCode": "05BW005T1",
+    "skinName": "Cascade Dragon"
+  },
+  {
     "champName": "Galio",
     "cardCode": "05DE009",
     "skinName": "Infernal"
@@ -1175,6 +1220,16 @@
     "skinName": "Star Guardian"
   },
   {
+    "champName": "Kai'Sa",
+    "cardCode": "06SH009",
+    "skinName": "Lagoon Dragon"
+  },
+  {
+    "champName": "Kai'Sa",
+    "cardCode": "06SH009T2",
+    "skinName": "Lagoon Dragon"
+  },
+  {
     "champName": "Gwen",
     "cardCode": "06SI012",
     "skinName": "Star Guardian"
@@ -1183,5 +1238,25 @@
     "champName": "Gwen",
     "cardCode": "06SI012T1",
     "skinName": "Star Guardian"
+  },
+  {
+    "champName": "Jack",
+    "cardCode": "07BW002",
+    "skinName": "Carnage Dragon"
+  },
+  {
+    "champName": "Jack",
+    "cardCode": "07BW002T2",
+    "skinName": "Carnage Dragon"
+  },
+  {
+    "champName": "Sett",
+    "cardCode": "07IO011",
+    "skinName": "Obsidian Dragon"
+  },
+  {
+    "champName": "Sett",
+    "cardCode": "07IO011T1",
+    "skinName": "Obsidian Dragon"
   }
 ]
