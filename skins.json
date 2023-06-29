@@ -1258,5 +1258,85 @@
     "champName": "Sett",
     "cardCode": "07IO011T1",
     "skinName": "Obsidian Dragon"
+  },
+  {
+    "champName": "Sett",
+    "cardCode": "07IO011",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Sett",
+    "cardCode": "07IO011T1",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Samira",
+    "cardCode": "07NX007",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Samira",
+    "cardCode": "07NX007T1",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Nidalee",
+    "cardCode": "07SH013",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Nidalee",
+    "cardCode": "07SH013T4",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Viego",
+    "cardCode": "04SI055",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Viego",
+    "cardCode": "04SI055T2",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Pyke",
+    "cardCode": "04BW005",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Pyke",
+    "cardCode": "04BW005T2",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Jhin",
+    "cardCode": "06RU002",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Jhin",
+    "cardCode": "06RU002T1",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Evelynn",
+    "cardCode": "06RU025T5",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Gwen",
+    "cardCode": "06SI012",
+    "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Gwen",
+    "cardCode": "06SI012T1",
+    "skinName": "Soul Fighter"
   }
 ]
