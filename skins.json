@@ -1338,5 +1338,95 @@
     "champName": "Gwen",
     "cardCode": "06SI012T1",
     "skinName": "Soul Fighter"
+  },
+  {
+    "champName": "Leona",
+    "cardCode": "03MT054",
+    "skinName": "Solar Eclipse"
+  },
+  {
+    "champName": "Leona",
+    "cardCode": "03MT054T1",
+    "skinName": "Solar Eclipse"
+  },
+  {
+    "champName": "Diana",
+    "cardCode": "03MT056",
+    "skinName": "Eclipse Knight"
+  },
+  {
+    "champName": "Diana",
+    "cardCode": "03MT056T1",
+    "skinName": "Eclipse Knight"
+  },
+  {
+    "champName": "Senna",
+    "cardCode": "05SI009",
+    "skinName": "Lunar Eclipse"
+  },
+  {
+    "champName": "Senna",
+    "cardCode": "05SI009T1",
+    "skinName": "Lunar Eclipse"
+  },
+  {
+    "champName": "Nilah",
+    "cardCode": "08BW008",
+    "skinName": "Lunar Eclipse"
+  },
+  {
+    "champName": "Nilah",
+    "cardCode": "08BW008T1",
+    "skinName": "Lunar Eclipse"
+  },
+  {
+    "champName": "Sejuani",
+    "cardCode": "02FR002",
+    "skinName": "Solar Eclipse"
+  },
+  {
+    "champName": "Sejuani",
+    "cardCode": "02FR002T3",
+    "skinName": "Solar Eclipse"
+  },
+  {
+    "champName": "Volibear",
+    "cardCode": "08FR001",
+    "skinName": "Thousand Pierced"
+  },
+  {
+    "champName": "Volibear",
+    "cardCode": "08FR001T1",
+    "skinName": "Thousand Pierced"
+  },
+  {
+    "champName": "Janna",
+    "cardCode": "08PZ001",
+    "skinName": "Coven"
+  },
+  {
+    "champName": "Janna",
+    "cardCode": "08PZ001T3",
+    "skinName": "Coven"
+  },
+  {
+    "champName": "Kayle",
+    "cardCode": "06MT008",
+    "skinName": "Sun Eater"
+  },
+  {
+    "champName": "Kayle",
+    "cardCode": "06MT008T2",
+    "skinName": "Sun Eater"
+  },
+  {
+    "champName": "Aatrox",
+    "cardCode": "06RU026",
+    "skinName": "Lunar Eclipse"
+  },
+  {
+    "champName": "Aatrox",
+    "cardCode": "06RU026T3",
+    "skinName": "Lunar Eclipse"
   }
 ]
