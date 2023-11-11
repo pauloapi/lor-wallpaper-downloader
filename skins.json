@@ -445,11 +445,6 @@
     "skinName": "Storm Dragon"
   },
   {
-    "champName": "Aurelion Sol",
-    "cardCode": "03MT087T1",
-    "skinName": "Storm Dragon"
-  },
-  {
     "champName": "Shyvana",
     "cardCode": "03DE011",
     "skinName": "Dark Star"
@@ -1428,5 +1423,90 @@
     "champName": "Aatrox",
     "cardCode": "06RU026T3",
     "skinName": "Lunar Eclipse"
+  },
+  {
+    "champName": "Lulu",
+    "cardCode": "03IO002",
+    "skinName": "Hyperpop"
+  },
+  {
+    "champName": "Lulu",
+    "cardCode": "03IO002T1",
+    "skinName": "Hyperpop"
+  },
+  {
+    "champName": "Ziggs",
+    "cardCode": "05BC163",
+    "skinName": "Hyperpop"
+  },
+  {
+    "champName": "Ziggs",
+    "cardCode": "05BC163T1",
+    "skinName": "Hyperpop"
+  },
+  {
+    "champName": "Illaoi",
+    "cardCode": "06BW006",
+    "skinName": "ILLBEATS"
+  },
+  {
+    "champName": "Illaoi",
+    "cardCode": "06BW006T1",
+    "skinName": "ILLBEATS"
+  },
+  {
+    "champName": "Bard",
+    "cardCode": "06RU001",
+    "skinName": "Jazz"
+  },
+  {
+    "champName": "Bard",
+    "cardCode": "06RU001T4",
+    "skinName": "Jazz"
+  },
+  {
+    "champName": "Jhin",
+    "cardCode": "06RU002",
+    "skinName": "Maestro"
+  },
+  {
+    "champName": "Jhin",
+    "cardCode": "06RU002T1",
+    "skinName": "Maestro"
+  },
+  {
+    "champName": "Aurelion Sol",
+    "cardCode": "03MT087",
+    "skinName": "Star-Eater"
+  },
+  {
+    "champName": "Aurelion Sol",
+    "cardCode": "03MT087T1",
+    "skinName": "Star-Eater"
+  },
+  {
+    "champName": "Twisted Fate",
+    "cardCode": "02BW026",
+    "skinName": "Underworld"
+  },
+  {
+    "champName": "Twisted Fate",
+    "cardCode": "02BW026T3",
+    "skinName": "Underworld"
+  },
+  {
+    "champName": "Gangplank",
+    "cardCode": "02BW032",
+    "skinName": "Spooky"
+  },
+  {
+    "champName": "Gangplank",
+    "cardCode": "02BW032T1",
+    "skinName": "Spooky"
+  },
+  {
+    "champName": "Gangplank",
+    "cardCode": "02BW032T3",
+    "skinName": "Spooky"
   }
 ]
