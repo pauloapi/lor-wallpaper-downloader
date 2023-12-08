@@ -4,6 +4,8 @@
 
 Welcome to the Legends of Runeterra Wallpaper Downloader! With this tool, you can easily download full art card wallpapers from the popular game Legends of Runeterra.
 
+![Coven Champ Skin Bundle](images/Cover_Coven_Champskin_Bundle.png)
+
 ## Usage
 1. Go to the [releases page](https://github.com/Necromancerx/lor-wallpaper/releases) of the repository on GitHub
 2. Download the latest version of the wallpaper zip file
